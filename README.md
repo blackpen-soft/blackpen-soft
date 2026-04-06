@@ -2,7 +2,7 @@
 <div align="center">
 
 # BAE GYUMIN  
-**Flutter · Full-stack · Builder**
+**Flutter ·  React · Flask · Full-stack · Builder**
 
 아이디어를 직접 만들며 배우는 개발자.  
 작게 시작해도 끝까지 완성하는 것을 목표로 합니다.
@@ -11,10 +11,13 @@
 
 ---
 
+## 🗃️ Products
+- **저벅저벅** — 100% 공군 병사용 휴가 관리앱
+
 ## 🗃️ Projects
-- **Run High** — 러닝 코칭 앱
-- **ENDIN** — 병사용 계산 서비스
-- **Bethlehem** — 묵상 리워드 서비스
+- **카페인** - 나만의 커피노트
+- **Tomodo** - ALL OS 포모도로 타이머 & 기록
+- **HANUL** - 초보 투자자용 경제흐름 해석기
 
 ---
 
